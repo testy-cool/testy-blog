@@ -2,9 +2,9 @@
 
 A fumadocs blog template that uses the **documentation aesthetic** instead of the typical blog template.
 
-![Homepage](assets/homepage.png)
-
-![Post](assets/post.png)
+| Homepage | Post |
+|----------|------|
+| ![Homepage](assets/homepage.png) | ![Post](assets/post.png) |
 
 ## Quick Start
 
